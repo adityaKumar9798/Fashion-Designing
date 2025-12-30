@@ -1,0 +1,7 @@
+{
+  "name": "YASHVI Studio",
+  "description": "A premium women's fashion e-commerce store with an elegant, minimal design and admin management capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
