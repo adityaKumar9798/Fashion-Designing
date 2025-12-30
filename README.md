@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 16a9fedb9364f722c67c97e9e49181033af63f64
 # Yashvi Studio - E-commerce Platform
 
 A modern, full-stack e-commerce platform for Yashvi Studio, featuring real-time Firebase authentication, database management, and a comprehensive admin dashboard for dress inventory management.
