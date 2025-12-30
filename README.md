@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="Yashvi Studio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Yashvi Studio - E-commerce Platform
 
 A modern, full-stack e-commerce platform for Yashvi Studio, featuring real-time Firebase authentication, database management, and a comprehensive admin dashboard for dress inventory management.
@@ -57,8 +53,8 @@ A modern, full-stack e-commerce platform for Yashvi Studio, featuring real-time 
 ### 1. Clone and Install Dependencies
 
 ```bash
-git clone <repository-url>
-cd yashvi-studio
+git clone https://github.com/adityaKumar9798/Fashion-Designing.git
+cd Fashion-Designing
 npm install
 ```
 
@@ -116,27 +112,25 @@ The first user to sign up with the email `admin@yashvi.com` will automatically r
 ## 📁 Project Structure
 
 ```
-yashvi-studio/
-├── src/
-│   ├── components/          # Reusable UI components
-│   │   ├── Navbar.tsx
-│   │   └── Footer.tsx
-│   ├── pages/              # Page components
-│   │   ├── admin/          # Admin dashboard pages
-│   │   │   ├── AdminDashboard.tsx
-│   │   │   ├── AdminProducts.tsx
-│   │   │   ├── AdminOrders.tsx
-│   │   │   └── AdminMessages.tsx
-│   │   ├── Home.tsx
-│   │   ├── Login.tsx
-│   │   ├── Signup.tsx
-│   │   └── ...
-│   ├── firebase.ts         # Firebase service exports
-│   ├── firebase-config.ts  # Firebase configuration
-│   ├── types.ts           # TypeScript type definitions
-│   └── App.tsx            # Main app component
-├── public/                # Static assets
-├── .env.example           # Environment template
+Fashion-Designing/
+├── components/          # Reusable UI components
+│   ├── Navbar.tsx
+│   └── Footer.tsx
+├── pages/              # Page components
+│   ├── admin/          # Admin dashboard pages
+│   │   ├── AdminDashboard.tsx
+│   │   ├── AdminProducts.tsx
+│   │   ├── AdminOrders.tsx
+│   │   └── AdminMessages.tsx
+│   ├── Home.tsx
+│   ├── Login.tsx
+│   ├── Signup.tsx
+│   └── ...
+├── firebase.ts         # Firebase service exports
+├── firebase-config.ts  # Firebase configuration
+├── types.ts           # TypeScript type definitions
+├── App.tsx            # Main app component
+├── .env.example       # Environment template
 └── README.md
 ```
 
